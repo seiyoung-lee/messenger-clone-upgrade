@@ -1,0 +1,29 @@
+.message_card {
+    padding: 10px;
+    margin: 10px;
+    text-align: left !important;
+    width: fit-content;
+    border-radius: 40px !important;
+    background-color: whitesmoke !important;
+    margin-right: auto;
+}
+
+.user {
+    margin: 10px;
+    margin-right: 10px !important;
+    margin-left: auto;
+    color: white !important;
+    background-color: #006AFF !important;
+}
+
+.message_user {
+    color: black;
+    margin-right: auto;
+    text-align: left;
+    margin-left: 20px !important;
+}
+
+.messensenger_sender {
+    margin-right: 20px !important;
+    text-align: right;
+}
